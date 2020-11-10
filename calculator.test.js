@@ -1,0 +1,3 @@
+it('should calculate the monthly rate correctly', function () {
+  // ...
+});
